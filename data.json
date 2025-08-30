@@ -82,14 +82,14 @@
           "description": "Gaming profile",
           "icon": "Gamepad2",
           "color": "#1b2838",
-          "deviceOnly": "desktop",
+         
           "isActive": true,
           "healthStatus": "healthy"
         },
         {
           "id": "discord",
           "title": "Discord",
-          "url": "discord.com/users/586750741633302528",
+          "url": "https://discord.com/users/586750741633302528",
           "description": "Gaming community",
           "icon": "MessageSquare",
           "color": "#5865f2",
